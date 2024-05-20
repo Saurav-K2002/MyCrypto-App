@@ -23,7 +23,8 @@ Hosted Link : https://crypto-app-wheat.vercel.app/
 # Coins Details page
 ![Screenshot (59)](https://github.com/Khanjamshed007/Crypto-App/assets/94047780/79a07c87-0292-4eb9-895b-4a7e5e015952)
 
-
+# Footer
+![Screenshot (60)](https://github.com/Khanjamshed007/Crypto-App/assets/94047780/815e49c8-f1d7-48a6-8831-ec762c037938)
 
 
 # Some Details
